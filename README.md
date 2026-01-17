@@ -71,3 +71,5 @@ Open index.html in any modern web browser (Google Chrome recommended).
 Use any username/password to log in (Simulation).
 
 Academic Context: This project was developed as a structured study on usability, requirement analysis, and software design modeling.
+
+Prepared by: Muhammet Furkan Şen
